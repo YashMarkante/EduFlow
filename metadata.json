@@ -1,0 +1,8 @@
+{
+  "name": "EduFlow - Smart Classroom & Academic Communication Platform",
+  "description": "EduFlow connects students, faculty, and administration onto one intelligent system for smart timetables, real-time classroom updates, digital classrooms, assignments, and campus notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
